@@ -5,7 +5,7 @@ class Item:
 
 # How to create an instance of a class
 item1 = Item()
-
+#hi
 # Assign attributes:
 item1.name = "Phone"
 item1.price = 100
